@@ -19,7 +19,7 @@
 **Languages & Frameworks**  
 ![Dart](https://img.shields.io/badge/Dart-15A6C4?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-FF2929?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 
 
@@ -37,7 +37,8 @@
 ### 📊 GitHub Stats
 ![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojit-r&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojit-r&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=mojit-r&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mojit-r&theme=tokyonight&fire=DC143C)
+
 
 ---
 
