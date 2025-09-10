@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 ![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojit-r&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojit-r&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=mojit-r&theme=tokyonight&fire=DC143C)
+![GitHub Streak](https://streak-stats.demolab.com?user=mojit-r&theme=tokyonight)
 
 
 ---
