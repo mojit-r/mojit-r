@@ -34,8 +34,6 @@
 ---
 
 ### 📊 GitHub Stats
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojit-r&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=1800&token=PAT_1)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojit-r&layout=compact&theme=tokyonight)  
 
 
 ---
