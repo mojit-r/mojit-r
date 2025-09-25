@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mojit-r&style=flat-square&color=blue&label=Visitors" alt="Visitors"/>
 
-# 👋 Hey there! I'm Mohit Rajpurohit
+# 💫 About Me:
 
 
 🌱 A curious developer who loves turning ideas into working apps.  
