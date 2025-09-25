@@ -9,7 +9,8 @@
 
 🌱 A curious developer who loves turning ideas into working apps.  
 💻 Currently building projects with **Dart** and **Flutter**.    
-🎯 Goal: Keep learning, keep building, and contribute to meaningful projects.  
+💡 Turn small sparks of ideas into full working apps.  
+🤝 Share what I learn and grow along the way. 
 
 ---
 
@@ -34,7 +35,11 @@
 ---
 
 ### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mojit-r&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
+![](https://nirzak-streak-stats.vercel.app/?user=mojit-r&theme=dark&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mojit-r&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
