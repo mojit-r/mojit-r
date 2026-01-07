@@ -2,8 +2,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajpurohitmohit2023@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mojit__r)
 
-<img src="https://komarev.com/ghpvc/?username=mojit-r&style=flat-square&color=blue&label=Visitors" alt="Visitors"/>
-
 # 💫 About Me:
 
 
