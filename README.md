@@ -33,7 +33,7 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mojit-r&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mojit-r&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=mojit-r&theme=dark&hide_border=true)<br/>
 
