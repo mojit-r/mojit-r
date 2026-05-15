@@ -47,9 +47,10 @@ class Developer {
 ![Java](https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
 
-#### Mobile Development  
+#### Backend & Connectivity  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  ![BLE](https://img.shields.io/badge/Bluetooth_Low_Energy-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Hardware Connectivity](https://img.shields.io/badge/Hardware_Connectivity-4A90E2?style=for-the-badge&logo=arduino&logoColor=white)
 
 #### Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
