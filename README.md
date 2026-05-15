@@ -50,7 +50,7 @@ class Developer {
 #### Backend & Connectivity  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
 ![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
-![Hardware Connectivity](https://img.shields.io/badge/Hardware_Connectivity-4A90E2?style=for-the-badge&logo=arduino&logoColor=white)
+![Hardware Connectivity](https://img.shields.io/badge/Hardware_Connectivity-388E3C?style=for-the-badge&logo=arduino&logoColor=white)
 
 #### Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
